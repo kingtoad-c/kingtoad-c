@@ -30,7 +30,7 @@ I love building real-time AI projects that *blend art and science*. 🎨🤖
 
 ---
 
-# ***"dont look into the past for insporation for the future, your just goint to recrate historys misstakes "*** - me
+# ***"dont look into the past for insporation for the future, your just going to recrate historys misstakes "*** - me
 
 # my activity
 

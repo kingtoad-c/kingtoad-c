@@ -2,33 +2,6 @@
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
-# how to learn🧠
-
-***I am self taught but here are some cources i recomend to follow***
-
----
-to learn c++ just follow this simple course:
-
-[<img src="https://github.com/user-attachments/assets/be2d10ac-a190-4a74-8854-25a40a2e49c6" width="30" hight="30">](https://github.com/kingtoad-c/c-course-)
-
----
-
-for python follow this:
-
-[<img src="https://github.com/user-attachments/assets/bf92689d-fd54-489a-9f00-793de4f7dece" width="30" height="30">](https://www.halvorsen.blog/documents/programming/python/resources/Python%20Programming.pdf)
-
----
-for c# use this:
-
-[<img src="https://github.com/user-attachments/assets/1ba578a7-bf04-4b5d-bb39-cff2d1c913b8" width="30" height="30">](https://dotnet.microsoft.com/en-us/learn/csharp)
-
----
-
-for html,css,js this is what you want to use:
-
-[<img src="https://github.com/user-attachments/assets/e2e67461-bd4a-4bdf-8c13-64a8c0aa2be7" width="30" height="30">
-](https://www.codecademy.com/catalog/language/html-css)
-
 ---
 
 ## About me 💘
@@ -61,6 +34,35 @@ I love building real-time AI projects that *blend art and science*. 🎨🤖
 ---
 
 # ***"dont look into the past for insporation for the future, your just going to recrate historys misstakes "*** - me
+
+# how to learn??
+
+***I am self taught but here are some cources i recomend to follow***
+
+---
+to learn c++ just follow this simple course:
+
+[<img src="https://github.com/user-attachments/assets/be2d10ac-a190-4a74-8854-25a40a2e49c6" width="30" hight="30">](https://github.com/kingtoad-c/c-course-)
+
+---
+
+for python follow this:
+
+[<img src="https://github.com/user-attachments/assets/bf92689d-fd54-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVresources/Python%20Programming.pdf)
+
+---
+for c# use this:
+
+[<img src="https://github.com/user-attachments/assets/1ba578a7-bf04-4b5d-bb39-cff2d1c913b8" width="30" height="30">](https://dotnet.microsoft.com/en-us/learn/csharp)
+
+---
+
+for html,css,js this is what you want to use:
+
+[<img src="https://github.com/user-attachments/assets/e2e67461-bd4a-4bdf-8c13-64a8c0aa2be7" width="30" height="30">
+](https://www.codecademy.com/catalog/language/html-css)
+
+---
 
 # my activity
 

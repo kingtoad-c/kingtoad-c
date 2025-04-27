@@ -6,7 +6,7 @@ Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
 i have made a webpage that gives a little bacstory on who i am:
 
-https://kingtoad-c.github.io/About/
+https://kingtoad-c.github.io/About
 
 ## 🛠️ Skills
 - Python 🐍
@@ -26,3 +26,5 @@ https://kingtoad-c.github.io/About/
 I love building real-time AI projects that *blend art and science*. 🎨🤖
 
 ---
+
+"dont look into the past for insporation for the future, your just goint to recrate historys misstakes " - me

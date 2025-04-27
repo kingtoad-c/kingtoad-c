@@ -20,6 +20,7 @@ https://kingtoad-c.github.io/About
 ## 🔥 Main Projects
 - [VisionWeaver](https://github.com/kingtoad-c/cam-ai) - Real-time face mesh, age prediction, object detection.
 - [google powered ai](https://github.com/kingtoad-c/Google-powered-ai) - google powered ai using webscraping and public infomation
+- [private shh encrypted chat](https://github.com/kingtoad-c/private-ssh-chat) - coded in c# uses shh for private chating on the same network
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingtoad-c&show_icons=true&theme=radical)

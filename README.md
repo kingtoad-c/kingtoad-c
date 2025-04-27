@@ -7,8 +7,6 @@ Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
 i have made a webpage that gives a little bacstory on who i am:
 
-<iframe src="https://kingtoad-c.github.io/About" width="600" height="400"></iframe>
-
 https://kingtoad-c.github.io/About
 
 ## 🛠️ Skills

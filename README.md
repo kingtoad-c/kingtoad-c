@@ -3,7 +3,9 @@
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
 # how to learn🧠
+
 I am self taught but here are some cources i recomend to follow
+
 ---
 to learn c++ just follow this simple course:
 

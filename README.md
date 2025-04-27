@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
-https://img.shields.io/badge/any_text-you_like-blue
 
 ## About me 💘
 
@@ -30,3 +29,9 @@ I love building real-time AI projects that *blend art and science*. 🎨🤖
 ---
 
 "dont look into the past for insporation for the future, your just goint to recrate historys misstakes " - me
+
+# my activity
+
+[![kingtoad-c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kingtoad-c)](https://github.com/kingtoad-c/github-readme-activity-graph)
+
+---

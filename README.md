@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
+https://img.shields.io/badge/any_text-you_like-blue
+
 ## About me 💘
 
 i have made a webpage that gives a little bacstory on who i am:

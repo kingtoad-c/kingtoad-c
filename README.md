@@ -33,8 +33,6 @@ I love building real-time AI projects that *blend art and science*. 🎨🤖
 
 ---
 
-# ***"dont look into the past for insporation for the future, your just going to recrate historys misstakes "*** - me
-
 # how to learn??
 
 ***I am self taught but here are some cources i recomend to follow***
@@ -69,3 +67,7 @@ for html,css,js this is what you want to use:
 [![kingtoad-c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kingtoad-c&theme=github-compact)](https://github.com/kingtoad-c/github-readme-activity-graph)
 
 ---
+
+---
+
+#### ***"dont look into the past for insporation for the future, your just going to recrate historys misstakes "*** - me

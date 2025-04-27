@@ -1,4 +1,5 @@
-# 👋 Hi, I'm kingtoad-c
+# 👋 Hi, I'm kingtoad-c <img src="https://media.tenor.com/images/cc3c392d12fd4d6c35e5d8107fbb4a5b/tenor.gif" width="20" height="20">
+
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 

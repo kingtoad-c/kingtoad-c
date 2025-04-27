@@ -13,6 +13,7 @@ to learn c++ just follow this simple course:
 
 ---
 
+<img src="https://github.com/user-attachments/assets/bf92689d-fd54-489a-9f00-793de4f7dece" width="50" height="30">
 for python follow this:
 
 [python](https://www.halvorsen.blog/documents/programming/python/resources/Python%20Programming.pdf)

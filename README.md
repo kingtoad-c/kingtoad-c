@@ -33,7 +33,7 @@ I love building real-time AI projects that *blend art and science*. 🎨🤖
 
 ---
 
-# how to learn??
+# how to learn? 🧠
 
 ***I am self taught but here are some cources i recomend to follow***
 

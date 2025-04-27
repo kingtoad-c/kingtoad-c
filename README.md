@@ -18,7 +18,7 @@ for python follow this:
 [python](https://www.halvorsen.blog/documents/programming/python/resources/Python%20Programming.pdf)
 
 ---
-<img src="https://github.com/user-attachments/assets/89a73ef1-b243-46a2-a576-0762b755e32b" width="50" height="30">
+<img src="https://github.com/user-attachments/assets/89a73ef1-b243-46a2-a576-0762b755e32b" width="90" height="70">
 for c# use this:
 
 [c#](https://dotnet.microsoft.com/en-us/learn/csharp)

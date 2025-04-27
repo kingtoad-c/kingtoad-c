@@ -6,7 +6,7 @@ Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
 ---
 
-<img src="https://github.com/user-attachments/assets/89a73ef1-b243-46a2-a576-0762b755e32b" width="40" height="80">
+<img src="https://github.com/user-attachments/assets/89a73ef1-b243-46a2-a576-0762b755e32b" width="80" height="40">
 to learn c++ just follow this simple course:
 
 [c++](https://github.com/kingtoad-c/c-course-) - a course from cplusplus.com

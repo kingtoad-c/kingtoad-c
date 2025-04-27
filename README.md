@@ -24,7 +24,8 @@ for c# use this:
 
 for html,css,js this is what you want to use:
 
-[web-development](https://www.codecademy.com/catalog/language/html-css)
+[<img src="https://github.com/user-attachments/assets/e2e67461-bd4a-4bdf-8c13-64a8c0aa2be7" width="30" height="30">
+](https://www.codecademy.com/catalog/language/html-css)
 
 ---
 

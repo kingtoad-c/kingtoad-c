@@ -48,7 +48,7 @@ to learn c++ just follow this simple course:
 
 for python follow this:
 
-[<img src="https://github.com/user-attachments/assets/bf92689d-fd54-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVresources/Python%20Programming.pdf)
+[<img src="https://github.com/user-attachments/assets/bf92689d-fd54-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVresources/Python%20Programming.pdf" width="30" height="30">]
 
 ---
 for c# use this:

@@ -1,6 +1,7 @@
 # 👋 Hi, I'm kingtoad-c
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
+https://img.shields.io/endpoint
 
 ## About me 💘
 

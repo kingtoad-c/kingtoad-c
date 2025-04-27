@@ -1,5 +1,5 @@
 # 👋 Hi, I'm kingtoad-c 
-<img src="https://media.tenor.com/images/cc3c392d12fd4d6c35e5d8107fbb4a5b/tenor.gif" width="200" height="200">
+![soulja-boy-pepe](https://github.com/user-attachments/assets/ae4140d6-f32f-46f5-898c-d84678872c76)
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 

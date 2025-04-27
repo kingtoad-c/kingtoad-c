@@ -5,23 +5,20 @@ Welcome to my GitHub profile — a place where creativity meets code! 🚀
 # how to learn🧠
 
 ---
-<img src="https://github.com/user-attachments/assets/be2d10ac-a190-4a74-8854-25a40a2e49c6" width="30" hight="30">
 to learn c++ just follow this simple course:
 
-[c++](https://github.com/kingtoad-c/c-course-) - a course from cplusplus.com
+[<img src="https://github.com/user-attachments/assets/be2d10ac-a190-4a74-8854-25a40a2e49c6" width="30" hight="30">](https://github.com/kingtoad-c/c-course-) - a course from cplusplus.com
 
 ---
 
-<img src="https://github.com/user-attachments/assets/bf92689d-fd54-489a-9f00-793de4f7dece" width="30" height="30">
 for python follow this:
 
-[python](https://www.halvorsen.blog/documents/programming/python/resources/Python%20Programming.pdf)
+[<img src="https://github.com/user-attachments/assets/bf92689d-fd54-489a-9f00-793de4f7dece" width="30" height="30">](https://www.halvorsen.blog/documents/programming/python/resources/Python%20Programming.pdf)
 
 ---
-<img src="https://github.com/user-attachments/assets/1ba578a7-bf04-4b5d-bb39-cff2d1c913b8" width="30" height="30">
 for c# use this:
 
-[c#](https://dotnet.microsoft.com/en-us/learn/csharp)
+[<img src="https://github.com/user-attachments/assets/1ba578a7-bf04-4b5d-bb39-cff2d1c913b8" width="30" height="30">](https://dotnet.microsoft.com/en-us/learn/csharp)
 
 ---
 

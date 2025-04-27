@@ -68,6 +68,4 @@ for html,css,js this is what you want to use:
 
 ---
 
----
-
-#### ***"dont look into the past for insporation for the future, your just going to recrate historys misstakes "*** - me
+### ***"dont look into the past for insporation for the future, your just going to recrate historys misstakes "*** - me

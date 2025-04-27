@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
+## About me 💘
+
+i have made a webpage that gives a little bacstory on who i am:
+
+https://kingtoad-c.github.io/About/
+
 ## 🛠️ Skills
 - Python 🐍
 - OpenCV 📷

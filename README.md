@@ -1,7 +1,5 @@
 # 👋 Hi, I'm kingtoad-c 
-
-![Soulja Boy Pepe](https://media.tenor.com/images/cc3c392d12fd4d6c35e5d8107fbb4a5b/tenor.gif)
-
+<img src="https://media.tenor.com/images/cc3c392d12fd4d6c35e5d8107fbb4a5b/tenor.gif" width="200" height="200">
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 

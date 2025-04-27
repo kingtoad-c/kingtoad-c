@@ -32,6 +32,6 @@ I love building real-time AI projects that *blend art and science*. 🎨🤖
 
 # my activity
 
-[![kingtoad-c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kingtoad-c&theme=dracula)](https://github.com/kingtoad-c/github-readme-activity-graph)
+[![kingtoad-c's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kingtoad-c&theme=github-compact)](https://github.com/kingtoad-c/github-readme-activity-graph)
 
 ---

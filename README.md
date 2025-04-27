@@ -1,5 +1,4 @@
-# 👋 Hi, I'm kingtoad-c 
-![soulja-boy-pepe](https://github.com/user-attachments/assets/ae4140d6-f32f-46f5-898c-d84678872c76)
+# 👋 Hi, I'm kingtoad-c ![soulja-boy-pepe](https://github.com/user-attachments/assets/ae4140d6-f32f-46f5-898c-d84678872c76)
 
 Welcome to my GitHub profile — a place where creativity meets code! 🚀
 

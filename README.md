@@ -23,6 +23,8 @@ https://kingtoad-c.github.io/About
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingtoad-c&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kingtoad-c)](https://git.io/streak-stats)
+
 ## ✨ Fun Fact
 I love building real-time AI projects that *blend art and science*. 🎨🤖
 

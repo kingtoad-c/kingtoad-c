@@ -6,6 +6,7 @@ Welcome to my GitHub profile — a place where creativity meets code! 🚀
 - Python 🐍
 - OpenCV 📷
 - Dlib 🤖
+- C# 🌐
 - Reverse Engineering 🔎
 - Creative Hacking ⚡
 

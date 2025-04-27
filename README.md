@@ -4,21 +4,31 @@ Welcome to my GitHub profile — a place where creativity meets code! 🚀
 
 # how to learn🧠
 
+---
+
 to learn c++ just follow this simple course:
 
 [c++](https://github.com/kingtoad-c/c-course-) - a course from cplusplus.com
+
+---
 
 for python follow this:
 
 [python](https://www.halvorsen.blog/documents/programming/python/resources/Python%20Programming.pdf)
 
+---
+
 for c# use this:
 
 [c#](https://dotnet.microsoft.com/en-us/learn/csharp)
 
+---
+
 for html,css,js this is what you want to use:
 
 [web-development](https://www.codecademy.com/catalog/language/html-css)
+
+---
 
 ## About me 💘
 

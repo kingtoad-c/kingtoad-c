@@ -16,7 +16,7 @@ i am a fun developer who loves making a change
 
 i have made a webpage that gives a little bacstory on who i am:
 
-https://kingtoad-c.github.io/About
+[here](https://kingtoad-c.github.io/About)
 
 ## 🛠️ Skills
 - Python 🐍

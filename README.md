@@ -30,6 +30,7 @@ i have made a webpage that gives a little bacstory on who i am [here](https://ki
 - [VisionWeaver](https://github.com/kingtoad-c/cam-ai) - Real-time face mesh, age prediction, object detection.
 - [google powered ai](https://github.com/kingtoad-c/Google-powered-ai) - google powered ai using webscraping and public infomation
 - [private shh encrypted chat](https://github.com/kingtoad-c/private-ssh-chat) - coded in c# uses shh for private chating on the same network
+- [Ceb cypher](https://github.com/kingtoad-c/python-crypter/tree/main) - python powered multi layer encrypter
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingtoad-c&show_icons=true&theme=radical)

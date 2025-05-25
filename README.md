@@ -27,6 +27,7 @@ i have made a webpage that gives a little bacstory on who i am [here](https://ki
 - Creative Hacking ⚡
 
 ## 🔥 Main Projects
+- [devk](https://github.com/kingtoad-c/sys/tree/main) - devk is a open sourece, .exe file exstension alternatives for unverified python developers
 - [VisionWeaver](https://github.com/kingtoad-c/cam-ai) - Real-time face mesh, age prediction, object detection.
 - [google powered ai](https://github.com/kingtoad-c/Google-powered-ai) - google powered ai using webscraping and public infomation
 - [private shh encrypted chat](https://github.com/kingtoad-c/private-ssh-chat) - coded in c# uses shh for private chating on the same network

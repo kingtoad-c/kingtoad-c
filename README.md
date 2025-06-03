@@ -45,6 +45,13 @@ I love building real-time AI projects that *blend art and science*. 🎨🤖
 
 # how to learn? 🧠
 
+### for cyber security
+
+[my website vunerability chalenges](https://github.com/kingtoad-c/ultimate-cft)
+
+
+### for basic coading 
+
 ***I am self taught but here are some cources i recomend to follow***
 
 ---
